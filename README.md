@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hichemfantar?tab=repositories](https://hichemfantar.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/hichemfantar?tab=repositories](https://github.com/hichemfantar?tab=repositories)
 
 - 💬 Ask me about **react, node and graphql**
 
