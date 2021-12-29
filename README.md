@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, node and graphql**
 
-- 📫 How to reach me **hichemfantar2049@gmail.com**
+- 📫 How to reach me **hichem.fantar@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
