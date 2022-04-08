@@ -27,7 +27,7 @@
 ## 🔧 Stats
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=hichemfantar&&show_icons=true&theme=radical&locale=en&count_private=true"/>
   </a>
   </p>
