@@ -15,7 +15,7 @@
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,stackoverflow,prisma,nodejs,react,mysql,postgres,linux,docker,git,nginx,unity,redis,nestjs,materialui,laravel,graphql,electron,gitlab,bash,nextjs,redux,express,apollo,kubernetes,vscode&theme=light&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,unity,gitlab,kubernetes,stackoverflow,vscode&theme=light&perline=15)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
