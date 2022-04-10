@@ -28,7 +28,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=hichemfantar&&show_icons=true&theme=radical&locale=en&count_private=true" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=hichemfantar&&show_icons=true&theme=radical&locale=en&count_private=true&hide=stars,prs" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
   </a>
   </p>
 </br>
