@@ -39,8 +39,8 @@
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Watch the video](https://i.pinimg.com/originals/d1/53/f0/d153f06b1496b168f2386b4e8290497d.gif)](https://youtu.be/skiNUaOS3mg)
 
-</div>
+</div> -->
