@@ -6,3 +6,4 @@
 </a>
 
 [Learn more about me](https://hichemfantar.com)
+[Check out my Zed theme]([https://hichemfantar.com](https://github.com/hichemfantar/halcyon-zed))
