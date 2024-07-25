@@ -7,4 +7,4 @@
 
 [Learn more about me](https://hichemfantar.com)
 
-[Check out my Zed theme](https://github.com/hichemfantar/halcyon-zed)
+[🎨 Check out my Zed theme](https://github.com/hichemfantar/halcyon-zed)
