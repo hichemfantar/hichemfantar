@@ -2,6 +2,7 @@
   <img
     alt="Working to build a better community that fosters creativity and freedom"
     src="https://raw.githubusercontent.com/hichemfantar/hichemfantar/main/banner.jpg"
+    style="border-radius: 10px;"
   />
 </a>
 
